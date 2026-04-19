@@ -11,7 +11,7 @@ theme:
   palette:
     primary: indigo  # 可选：添加主题颜色
   language: zh
-  
+
 site_url: https://zhiweinju.github.io/nju-dl-lab-2026spring/
 
 extra_css:
@@ -23,7 +23,7 @@ extra_css:
 site_name: 深度学习平台和应用（2026春）
 nav:
   - 主页: "index.md"
-  - 实验一: 
+  - 实验一:
     - 1.1 实验说明: "lab1/实验一介绍.md"
     - 1.2 实验任务一：环境配置: "lab1/环境配置指南.md"
     - 1.3 实验任务二：PyTorch练习: "lab1/实验一代码.md"
@@ -48,9 +48,9 @@ nav:
     - 6.2 实验任务一：GAN: "lab6/实验任务一：生成对抗网络（GAN）.md"
     - 6.3 实验任务二：DCGAN: "lab6/实验任务二：深度卷积生成对抗网络（DCGAN）.md"
     - 6.4 实验任务三：WGAN: "lab6/实验任务三：WGAN.md"
-  - 实验七:
-      - 7.1 实验说明: "lab7/实验七介绍.md"
-      - 7.2 实验任务：迁移学习和元学习: "lab7/迁移学习和元学习介绍.md"
+  # - 实验七:
+  #     - 7.1 实验说明: "lab7/实验七介绍.md"
+  #     - 7.2 实验任务：迁移学习和元学习: "lab7/迁移学习和元学习介绍.md"
 #  - 实验八:
 #      - 8.1 实验说明: "lab8/实验八介绍.md"
 #      - 8.2 实验任务：多模态情感分析: "lab8/多模态情感分析.md"
