@@ -73,4 +73,4 @@
    **MMLongBench：**  
    https://huggingface.co/datasets/ZhaoweiWang/MMLongBench
 
-3. 如有疑问，请联系助教:522025330045@smail.nju.edu.cn。
+3. 如有疑问，请联系助教:lqr@smail.nju.edu.cn。
