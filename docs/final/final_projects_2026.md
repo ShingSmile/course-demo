@@ -7,15 +7,21 @@
 1-3 人组队
 
 ## 时间点
-- Proposal / Milestone / Final 的具体安排以课程通知与答辩安排页为准。
+- Proposal：
+    - 提交内容：选题、组队情况、研究计划
+    - 截止时间：2026年5月8日
+- Milestone:
+    - 提交内容：进展报告（进度、初步成果、下一步计划）
+    - 截止时间：2026年5月28日
+- Final:
+    - 答辩日期：2026年6月10日（暂定）
+    - 提交内容：答辩PPT、代码、论文（使用NeurIPS模板，正文8-9页，统一用英文，reference和appendix不限制页数）
+    - 提交截止时间：待定
 
 ## 报告提交要求
 - 使用 NeurIPS 2024 模板，最终提交 PDF 版本。  
   [overleaf 上的模板](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh)
 - 正文建议 8-9 页，reference 和 appendix 不限制页数。
-
-## 答辩要求
-详见 [答辩相关安排](./答辩相关安排.md)
 
 ## 项目题目
 
